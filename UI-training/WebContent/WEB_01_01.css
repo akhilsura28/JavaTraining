@@ -1,0 +1,30 @@
+@CHARSET "ISO-8859-1";
+
+#header {
+background-color: #90ae54;
+border-radius: 10px;
+height:10%;
+}
+#body{
+background-color: white;
+height:80%;
+}
+#footer{
+background-color:#90ae54;
+border-radius: 10px;
+height:10%;
+}
+#divleft {
+background-color:#5a5757;
+float: left;
+width: 50%;
+height: 100%;
+border-radius: 10px;
+}
+#divright{
+background-color:#989898;
+float: right;
+width: 50%;
+height: 100%;
+border-radius: 10px;
+}
