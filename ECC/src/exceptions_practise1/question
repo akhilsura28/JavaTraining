@@ -1,0 +1,15 @@
+
+
+-Create a class OrderDetails with the following 
+	- Fields : 
+		* orderNo 
+		* productCode
+		* quantityOrdered
+		* priceEach
+	- Generate constructor,getters/setters
+	
+	
+- create a class Orders with main method 
+	* add 5 objects of orderDetails to	a map where orderNo as key and orderDetails object as a value.
+	* Search for a order and throw an OrderNotFoundException, if order
+		 details are not found otherwise print order

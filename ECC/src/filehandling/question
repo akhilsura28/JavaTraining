@@ -1,0 +1,9 @@
+create a file named "productInfo" with the following data
+ 	id : 101
+ 	name ; Tables
+ 	quantity - 10
+ 	priceEach  - 56
+ 	
+ - Store the above data in a product object
+
+ 

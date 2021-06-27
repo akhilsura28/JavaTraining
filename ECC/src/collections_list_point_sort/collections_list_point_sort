@@ -1,0 +1,11 @@
+
+-Create a class Point with name, x,y fields
+
+-Create a DistanceCalculation with Main method
+
+ 	* Add point objects to list
+ 	
+ 	* calculate distance between two points and store it in a new list
+ 	 	"distanceList".
+ 	
+ 	* Sort the list 

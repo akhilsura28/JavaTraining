@@ -1,0 +1,11 @@
+-ERRORS : WHICH CANNOT BE RESOLVED
+
+-EXCEPTIONS : WHICH CAN BE RESOLVED
+-->runtime or checked exceptions
+-->other exceptions - compile time exceptions or unchecked exceptions.
+
+ EXCEPTION HANDLING :
+ -->try.....catch.....(finally)
+ -->throws
+ 
+ 
